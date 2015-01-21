@@ -1,0 +1,36 @@
+h1 {
+  color: #A30000;
+}
+
+.menu a {
+  font-weight: bold;
+}
+
+li > a {
+  color: #00007A;
+}
+
+li > a:hover {
+  color: #A30000;
+}
+
+body {
+  font-family: arial;
+}
+
+.menu {
+  padding-left: 5px;
+}
+.menu li{
+  display: inline;
+  margin-right: 10px;
+}
+
+.container {
+  margin: 25px auto;
+  max-width: 36em;
+}
+
+img {
+    width: 100%;
+}
