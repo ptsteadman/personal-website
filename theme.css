@@ -6,6 +6,10 @@ h1 {
   font-weight: bold;
 }
 
+li {
+    margin-bottom: 2px;
+}
+
 li > a {
   color: #00007A;
 }
@@ -23,12 +27,12 @@ body {
 }
 .menu li{
   display: inline;
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .container {
   margin: 25px auto;
-  max-width: 36em;
+  max-width: 740px;
 }
 
 img {
