@@ -51,11 +51,6 @@ img {
     width: 100%;
 }
 
-.container img{
-    -webkit-filter: opacity(.9);
-    filter: opacity(.9);
-    -moz-filter: opacity(.9);
-}
 
 .captions p {
     font-size: 18px;
