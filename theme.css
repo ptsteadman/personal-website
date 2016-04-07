@@ -1,42 +1,3 @@
-h1 {
-  color: #A30000;
-}
-
-a {
-    color: inherit;
-    text-decoration: inherit;
-}
-
-.menu a {
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-li {
-    margin-bottom: 2px;
-}
-
-li > a {
-  color: #00007A;
-}
-
-li > a:hover {
-  color: #A30000;
-}
-
-body {
-  font-family: arial;
-  margin: 0px 0px;
-}
-
-.menu {
-  padding-left: 0px;
-}
-.menu li{
-  display: inline;
-  margin-right: 5px;
-}
-
 .container {
   margin: 0px auto;
   padding: 1% 2%;
@@ -47,47 +8,93 @@ body {
   box-shadow: 0px 0px 2px #ddd;
 }
 
+body {
+  font-family: arial;
+  margin: 0px 0px;
+}
+
+h1 {
+  color: #A30000;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.menu a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.menu {
+  padding-left: 0px;
+}
+
+.menu li{
+  display: inline;
+  margin-right: 5px;
+}
+
 img {
-    width: 100%;
+  width: 100%;
+}
+
+p a{
+  text-decoration: underline;
+}
+
+li {
+  margin-bottom: 2px;
+}
+
+li > a, p > a {
+  color: #00007A;
+}
+
+li > a:hover, li > a:hover {
+  color: #A30000;
 }
 
 
+
+
 .captions p {
-    font-size: 18px;
-    max-width: 740px;
-    padding: 10px 15px;
-    margin: 10px auto;
-    background-color: rgba(255,255,255,.85);
-    color: rgb(52,52,52);
-    box-shadow: 0px 0px 2px #ddd;
-    line-height: 1.3;
+  font-size: 18px;
+  max-width: 740px;
+  padding: 10px 15px;
+  margin: 10px auto;
+  background-color: rgba(255,255,255,.85);
+  color: rgb(52,52,52);
+  box-shadow: 0px 0px 2px #ddd;
+  line-height: 1.3;
 }
 
 .taipei-teal 
 {
-    background: -moz-linear-gradient(left, rgba(122,202,174,0.5) 0%, rgba(126,108,87,0.24) 50%, rgba(237,255,245,0.5) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(122,202,174,0.5)), color-stop(50%,rgba(126,108,87,0.24)), color-stop(100%,rgba(237,255,245,0.5))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* IE10+ */
-    background: linear-gradient(to right, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#807acaae', endColorstr='#80edfff5',GradientType=1 ); /* IE6-9 */
+  background: -moz-linear-gradient(left, rgba(122,202,174,0.5) 0%, rgba(126,108,87,0.24) 50%, rgba(237,255,245,0.5) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(122,202,174,0.5)), color-stop(50%,rgba(126,108,87,0.24)), color-stop(100%,rgba(237,255,245,0.5))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* IE10+ */
+  background: linear-gradient(to right, rgba(122,202,174,0.5) 0%,rgba(126,108,87,0.24) 50%,rgba(237,255,245,0.5) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#807acaae', endColorstr='#80edfff5',GradientType=1 ); /* IE6-9 */
 }
 
 .taipei-teal img {
-    border: 1px solid rgba(255,255,255,.45);
-    box-shadow: 0px 0px 1px #ddd;
+  border: 1px solid rgba(255,255,255,.45);
+  box-shadow: 0px 0px 1px #ddd;
 
 }
 
 .taipei-teal h1 {
-    color: rgb(62,62,62);
-    text-align: center;
-    max-width: 740px;
-    padding: 10px 15px;
-    margin: 10px auto;
-    background-color: rgba(255,255,255,.85);
-    color: rgb(62,62,62);
-    box-shadow: 0px 0px 2px #ddd;
+  color: rgb(62,62,62);
+  text-align: center;
+  max-width: 740px;
+  padding: 10px 15px;
+  margin: 10px auto;
+  background-color: rgba(255,255,255,.85);
+  color: rgb(62,62,62);
+  box-shadow: 0px 0px 2px #ddd;
 }
 
