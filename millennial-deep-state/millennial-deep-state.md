@@ -45,16 +45,6 @@ style: basic.css
 ![Cigarette smoking man.](https://pmctvline2.files.wordpress.com/2015/10/csm.png)
 --
 
-### Anatomy of the Boomer Deep State
-
-**The Baby Boomer Deep State**
-
-- Three letter agencies: CIA, FBI, NSA, ONI
-- Crime families and 'the Cabal': Gambino, Sinaloa, Dulles, Bush
-- Military-Industrial: Manhattan Project, Area 51, Roswell
-
---
-
 ### Deep Events
 
 **'Deep Events': the Footprints of the Deep State**
@@ -66,11 +56,22 @@ style: basic.css
 
 --
 
+### Anatomy of the Boomer Deep State
+
+**The Baby Boomer Deep State**
+
+- Three letter agencies: CIA, FBI, NSA, ONI
+- Crime families and 'the Cabal': Gambino, Sinaloa, Dulles, Bush
+- Military-Industrial: Manhattan Project, Area 51, Roswell
+
+--
+
+
 ### The Birth of the Millennial Deep State
-** The Deep State in a post Cold War world **
+** The Deep State in a Post Cold War World **
 
 In the 90s, despite attempts at destabilizing the world with the Gulf War and
-Asian Financial crisis , **the Cabal was losing control.**
+Asian Financial crisis, **the Cabal was losing control.**
 
 The Internet, originally funded by ARPA in the 1960s, was also becoming a
 problem.
@@ -144,8 +145,8 @@ power from 'the Cabal'.
 Deep State technocrats transformed Arab extremists into a decentralized
 network of terror cells.
 
-**The War on Terror would require unprecendented information technology programs
-and the spectacle would create a desire for mass social media.**
+**The War on Terror would require unprecendented information technology programs.
+The spectacle would create a desire for mass social media.**
 
 --
 
@@ -204,9 +205,9 @@ Jobs' biological father was Abdulfattah Jandali, a wealthy Arab nationalist in e
 ** The Deep State is flexible and seductive. **
 
 Many ambitious young people make faustian deals with the Deep State in order to
-achieve success.
+**achieve success**.
 
-Others are Deep State plants from birth.
+Others are Deep State 'plants' from birth, born with privilege.
 
 --
 
@@ -229,11 +230,11 @@ It doesn't have a membership card.
 ### Does the Millennial Deep State Kill People?
 **Example: Michael Hastings**
 
-Covered Iraq War, Occupy Wall Street, PRISM.
+Wrote about Iraq War, Occupy Wall Street, PRISM.
 
 About 15 hours before dying in a fiery car crash at about 4:30 a.m. in L.A., he
 sent an email to several colleagues that said the FBI was investigating him and
-he was "onto a big story."
+he was **"onto a big story."**
 
 --
 
