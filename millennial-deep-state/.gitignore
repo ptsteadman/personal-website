@@ -1,0 +1,5 @@
+*.swp
+*.swo
+*~
+
+s3_website.yml
