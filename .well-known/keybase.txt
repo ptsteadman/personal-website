@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ptsteadman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ptsteadman.com
+  * I am ptsteadman (https://keybase.io/ptsteadman) on keybase.
+  * I have a public key ASClK0MMVmBdY6dlZ6e8fQH2oRjRTYTaJilpdz-KGfWhiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ee628494196cc5454fc654dfd3a8ec7b741d60ceb805b52bb494c2f4a9758a10a",
+      "host": "keybase.io",
+      "kid": "0120a52b430c56605d63a76567a7bc7d01f6a118d14d84da262969773f8a19f5a18b0a",
+      "uid": "f4327be41b842cfa7bd16fcc96624819",
+      "username": "ptsteadman"
+    },
+    "merkle_root": {
+      "ctime": 1542304144,
+      "hash": "f70d0075251a476b7ea9a5d2b54d634c293bd4137c3e56abe6ae9194b2baa0af8249c962ec084ef4d0b7dcac13d2be7928e3e52d9e35e65ecf86e9b9c5171196",
+      "hash_meta": "866bcd304b8e9ee55f7a9cb5fd8c5bc32568a2371a51c11c378bc8b8e806ce19",
+      "seqno": 3958646
+    },
+    "service": {
+      "entropy": "nq6fsZIH3DkVySibWb3S7JoQ",
+      "hostname": "ptsteadman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1542304160,
+  "expire_in": 504576000,
+  "prev": "e36ef7f23bd2a15ad68c0f42101c024933d57322e4f883e1cb153fa5d091e201",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpStDDFZgXWOnZWenvH0B9qEY0U2E2iYpaXc/ihn1oYsKp3BheWxvYWTESpcCQ8Qg42738jvSoVrWjA9CEBwCSTPVcyLk+IPhyxU/pdCR4gHEIH1J4FJmCwhQmB9Wt6PS8bxY/5/2WztBAhYAkcPAtxlLAgHCo3NpZ8RAMjLH2YsPvjDQt53x6FGq8wkxMKuSfMxZ2cwLQRVM2FJ7odQpSkYQfmRBXGkSQmREod1oyxpfaHfLm2YxHE42B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEFr+0p25tjJFlbGXcaJWy0aMGvvy2B/46rLCUzaQj3So3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ptsteadman
+
+==================================================================
