@@ -57,7 +57,7 @@ server {
   }
 
   location /love-poem {
-          root /home/ubuntu;
+          root /config/love-poem;
   }
 
   location /static {
