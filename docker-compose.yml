@@ -14,6 +14,7 @@ services:
       - TZ=America/New_York
     volumes:
       - ./swag-nginx-conf/default:/config/nginx/site-confs/default
+      - ./src:/config/personal-website
     ports:
       - 443:443
       - 80:80

@@ -48,11 +48,7 @@ server {
 	client_max_body_size 0;
 
   location / {
-
-           if ($bad_referer) {
-               return 444;
-           }
-          root /home/ubuntu/personal-website;
+          root /config/personal-website;
   }
 
   location /array {
