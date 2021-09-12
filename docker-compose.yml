@@ -3,6 +3,7 @@ version: "3.7"
 services:
   swag:
     image: ghcr.io/linuxserver/swag
+    network_mode: host
     container_name: swag
     cap_add:
       - NET_ADMIN
@@ -16,7 +17,5 @@ services:
       - ./swag-nginx-conf/default:/config/nginx/site-confs/default
       - ./src:/config/personal-website
       - /home/ubuntu/love-poem:/config/love-poem
-    ports:
-      - 443:443
-      - 80:80
+      - /home/ubuntu/memorial:/config/memorial
     restart: always
