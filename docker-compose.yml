@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   swag:
-    image: ghcr.io/linuxserver/swag
+    image: ghcr.io/linuxserver/swag:4.2.0
     network_mode: host
     container_name: swag
     cap_add:
@@ -14,7 +14,7 @@ services:
       - URL=ptsteadman.com
       - TZ=America/New_York
     volumes:
-      - ./swag-nginx-conf/default:/config/nginx/site-confs/default
+      - ./swag-nginx-conf/default.conf:/config/nginx/site-confs/default.conf
       - ./src:/config/personal-website
       - /home/ubuntu/love-poem:/config/love-poem
       - /home/ubuntu/memorial:/config/memorial
